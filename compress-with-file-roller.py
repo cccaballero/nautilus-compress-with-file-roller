@@ -25,7 +25,7 @@ import gi
 from gi.repository import Nautilus, GObject
 
 
-class OpenTerminalExtension(Nautilus.MenuProvider, GObject.GObject):
+class CompressWithFileRollerExtension(Nautilus.MenuProvider, GObject.GObject):
     def __init__(self):
         self.file_roller_exists = self._file_roller_exists()
 
