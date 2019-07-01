@@ -1,4 +1,4 @@
-# nautilus-compress-with-file-roller
+# "Compress with File-Roller" Nautilus extension
 
 This extension includes an option to the Nautilus file manager contextual menu for compressing files using the File-Roller tool, just like it worked before Gnome removed it.
 
